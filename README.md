@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
+This is the GitHub repo for Leo Martynenko's (https://www.youutube.com/@LeoMartynenko) Java Coding Tutorial.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+If you are here by mistake, no worries! Simply close this and move on.
+If you are not here by mistake, explore the parts, & make sure you have the correct code.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+@SunsetRiley
